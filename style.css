@@ -1,4 +1,12 @@
-body{
-    background-color: beige;
-    text-align: center;
+body {
+    font-family: Arial, sans-serif;
+    color: rgb(0, 11, 48);
+background-color: rgb(106, 217, 215);}
+
+.bloco {
+    margin-bottom: 10px;
+}
+#resultado {
+    font-size: 24px;
+    margin-bottom: 20px;
 }
